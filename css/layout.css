@@ -26,6 +26,7 @@
 
 .column {
   float: left;
+  margin-left: 2%;
 }
 
 .left {
@@ -35,6 +36,5 @@
 .right {
   width: 32%;
 }
-
 
   
