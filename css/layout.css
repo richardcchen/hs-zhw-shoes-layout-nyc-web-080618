@@ -25,15 +25,13 @@
 /* Posititoning Classes */
 
 .column {
-  /*float: left; */
+  float: left;
 }
 
 .left {
   width: 66%;
-  float: left;
 }
  
 .right {
   width: 32%;
-  float: left;
 }
